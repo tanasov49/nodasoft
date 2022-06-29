@@ -1,0 +1,6 @@
+.blocks__child_three {
+    grid-area: three;
+}
+.blocks__child_three::before {
+    content: '3';
+}

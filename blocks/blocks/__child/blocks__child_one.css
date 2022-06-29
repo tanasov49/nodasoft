@@ -1,0 +1,6 @@
+.blocks__child_one {
+    grid-area: one;
+}
+.blocks__child_one::before {
+    content: '1';
+}

@@ -1,0 +1,18 @@
+.popup__close-btn {
+    width: 43px;
+    height: 39px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #7FAFF6;
+    border-radius: 5px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

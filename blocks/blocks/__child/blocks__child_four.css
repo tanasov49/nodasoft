@@ -1,0 +1,6 @@
+.blocks__child_four {
+    grid-area: four;
+}
+.blocks__child_four::before {
+    content: '4';
+}

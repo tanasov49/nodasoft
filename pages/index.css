@@ -1,0 +1,27 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__block/header__block.css);
+@import url(../blocks/header/__btn/header__btn.css);
+@import url(../blocks/main/main.css);
+@import url(../blocks/section-one/section-one.css);
+@import url(../blocks/blocks/blocks.css);
+@import url(../blocks/blocks/__child/blocks__child.css);
+@import url(../blocks/blocks/__child/blocks__child_one.css);
+@import url(../blocks/blocks/__child/blocks__child_two.css);
+@import url(../blocks/blocks/__child/blocks__child_three.css);
+@import url(../blocks/blocks/__child/blocks__child_four.css);
+@import url(../blocks/blocks/__child/blocks__child_five.css);
+@import url(../blocks/section-two/section-two.css);
+@import url(../blocks/squares/squares.css);
+@import url(../blocks/squares/__child/squares__child.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__block/footer__block.css);
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__title/popup__title.css);
+@import url(../blocks/popup/__close-btn/popup__close-btn.css);
+
+body {
+    background-color: #fff;
+}

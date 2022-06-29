@@ -1,0 +1,16 @@
+.blocks__child {
+    background: #8AD191;
+    position: relative;
+    margin: 0;
+}
+.blocks__child::before {
+    content: '';
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 53px;
+    line-height: 62px;
+    color: #fff;
+    position: absolute;
+    top: 68px;
+    left: 50%;
+}

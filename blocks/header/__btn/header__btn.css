@@ -1,0 +1,18 @@
+.header__btn {
+    max-width: 206px;
+    height: 39px;
+    background: #A5C7F9;
+    border-radius: 5px;
+    border: none;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin: 30.5px 0 0 30px;
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

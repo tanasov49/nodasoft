@@ -1,0 +1,15 @@
+.popup {
+    width: 400px;
+    height: 400px;
+    background: #fff;
+    position: fixed;
+    top: 30%;
+    left: 500px;
+    visibility: hidden;
+    transition: opacity 0.5s;
+    opacity: 0;
+}
+.popup:target {
+    visibility: visible;
+    opacity: 1;
+}

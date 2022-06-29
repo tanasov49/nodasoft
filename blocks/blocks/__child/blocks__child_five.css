@@ -1,0 +1,6 @@
+.blocks__child_five {
+    grid-area: five;
+}
+.blocks__child_five::before {
+    content: '5';
+}
